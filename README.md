@@ -1,2 +1,2 @@
-# Algorithm
-Today we have learned about how to create algorithms for is touching and bounce off function.
+# p5.play-boilerplate
+Boiler plate for p5.play
